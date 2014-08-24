@@ -19,6 +19,7 @@
         "./mode/html.json",
         "./mode/ini.json",
         "./mode/jack.json",
+        "./mode/jade.json",
         "./mode/java.json",
         "./mode/less.json",
         "./mode/logiql.json",
